@@ -14,6 +14,8 @@
 		9FFC055B2A15309200683EB3 /* Navigationbar.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9FFC05592A15309200683EB3 /* Navigationbar.xcdatamodeld */; };
 		9FFC055D2A15309200683EB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FFC055C2A15309200683EB3 /* Assets.xcassets */; };
 		9FFC05602A15309200683EB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9FFC055E2A15309200683EB3 /* LaunchScreen.storyboard */; };
+		9FFC056A2A1530CC00683EB3 /* NavAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFC05692A1530CC00683EB3 /* NavAnimation.swift */; };
+		9FFC056C2A15310600683EB3 /* Tableview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FFC056B2A15310600683EB3 /* Tableview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		9FFC055C2A15309200683EB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FFC055F2A15309200683EB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9FFC05612A15309200683EB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FFC05692A1530CC00683EB3 /* NavAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavAnimation.swift; sourceTree = "<group>"; };
+		9FFC056B2A15310600683EB3 /* Tableview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tableview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				9FFC05502A15309200683EB3 /* AppDelegate.swift */,
 				9FFC05522A15309200683EB3 /* SceneDelegate.swift */,
 				9FFC05542A15309200683EB3 /* ViewController.swift */,
+				9FFC05692A1530CC00683EB3 /* NavAnimation.swift */,
+				9FFC056B2A15310600683EB3 /* Tableview.swift */,
 				9FFC05562A15309200683EB3 /* Main.storyboard */,
 				9FFC055C2A15309200683EB3 /* Assets.xcassets */,
 				9FFC055E2A15309200683EB3 /* LaunchScreen.storyboard */,
@@ -144,7 +150,9 @@
 				9FFC05552A15309200683EB3 /* ViewController.swift in Sources */,
 				9FFC05512A15309200683EB3 /* AppDelegate.swift in Sources */,
 				9FFC05532A15309200683EB3 /* SceneDelegate.swift in Sources */,
+				9FFC056A2A1530CC00683EB3 /* NavAnimation.swift in Sources */,
 				9FFC055B2A15309200683EB3 /* Navigationbar.xcdatamodeld in Sources */,
+				9FFC056C2A15310600683EB3 /* Tableview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
